@@ -1,0 +1,28 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "ecommerce",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "express-validator": "^2.20.10",
+    "fs-extra": "^1.0.0",
+    "jsonwebtoken": "^7.1.9",
+    "mongoose": "^4.6.2",
+    "mongoose-paginate": "^5.0.3",
+    "morgan": "^1.7.0",
+    "multer": "^1.2.1",
+    "nodemailer": "^2.7.0",
+    "query-params-mongo": "^1.0.4",
+    "underscore": "^1.8.3",
+    "util": "^0.10.3"
+  }
+}
