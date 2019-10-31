@@ -16,7 +16,7 @@
     "express-validator": "^2.20.10",
     "fs-extra": "^1.0.0",
     "jsonwebtoken": "^7.1.9",
-    "mongoose": "^4.6.2",
+    "mongoose": "^5.7.7",
     "mongoose-paginate": "^5.0.3",
     "morgan": "^1.7.0",
     "multer": "^1.2.1",
